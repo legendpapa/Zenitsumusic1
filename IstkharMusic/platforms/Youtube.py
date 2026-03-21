@@ -40,11 +40,11 @@ import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from py_yt import VideosSearch
-from BABYMUSIC.utils.database import is_on_off
-from BABYMUSIC.utils.formatters import time_to_seconds
+from IstkharMusic.utils.database import is_on_off
+from IstkharMusic.utils.formatters import time_to_seconds
 import aiohttp
 from config import LOGGER_ID
-from BABYMUSIC import app
+from IstkharMusic import app
 from config import BASE_URL, API_KEY
 from urllib.parse import urlparse
 
