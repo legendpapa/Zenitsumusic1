@@ -23,7 +23,7 @@ HELP_1 = """<b><u>⊚ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/TEAMINCRICIBLE)**
 """
 
 HELP_2 = """
@@ -37,7 +37,7 @@ HELP_2 = """
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/TEAMINCRICIBLE)**
 """
 
 HELP_3 = """
@@ -61,7 +61,7 @@ HELP_3 = """
 ```
 /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 ```
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/TEAMINCRICIBLE)**
 """
 
 HELP_4 = """<u><b>⊚ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
